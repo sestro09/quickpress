@@ -18,14 +18,14 @@
 				messageText								: 'This website uses cookies to ensure you have the best experience on our website.', 
 				messageTextColor						: undefined,        
 				messageFontSize							: undefined,				 
-				buttonText 								: 'Agree',   
+				buttonText 								: 'Accept !',   
 				buttonColor								: undefined,   				
 				buttonFontSize							: undefined,				  
 				iconColor								: undefined,    			 
 				iconVisibility		  					: true, 		              
-				cookiePolicyButtonText					: 'More',
+				cookiePolicyButtonText					: 'Google Cookie Policy',
 				cookiePolicyButtonTextColor		    	: undefined,
-				cookiePolicyButtonUrl					: '/p/cookies.html',
+				cookiePolicyButtonUrl					: 'https://policies.google.com/technologies/cookies',
 				cookiePolicyButtonTarget				: '_blank',
 				boxAppearDelay							: 1000
 			}, options);
